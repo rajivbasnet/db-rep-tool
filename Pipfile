@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+bs4 = "*"
+sqlalchemy = "*"
+pandas = "*"
+jupyter = "*"
+ipykernel = "*"
+requests = "*"
+psycopg2-binary = "*"
+mysql-connector-python = "*"
+selenium = "*"
+boto3 = "*"
+
+[requires]
+python_version = "3.8"
