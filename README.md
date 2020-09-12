@@ -30,7 +30,7 @@ Install pipenv -
     pip install pipenv
 Clone repo -
 
-    https://github.com/rajivbasnet/db-rep-tool.git
+    git clone https://github.com/rajivbasnet/db-rep-tool.git
     cd db-rep-tool
 Install all dependencies -
 
